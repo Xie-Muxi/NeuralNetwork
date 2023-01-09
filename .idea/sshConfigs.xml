@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="beishida" id="954c515e-2474-4668-8cae-75b2f8d2eec7" port="22" customName="MDC501" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="MDC501" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
